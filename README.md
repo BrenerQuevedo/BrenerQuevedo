@@ -14,8 +14,6 @@ I am a student of computer science at the Federal University of Campina Grande (
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/brenerquevedo)
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenerQuevedo" alt="BrenerQuevedo" /> </p>
-
  *See you space cowboy*
  
 
