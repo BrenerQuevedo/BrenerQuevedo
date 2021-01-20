@@ -11,7 +11,6 @@ I am a student of computer science at the Federal University of Campina Grande (
 
 - 📫 How to reach me: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brener-quevedo)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/brenerquevedo)
 
 
  *See you space cowboy*
