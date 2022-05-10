@@ -4,9 +4,9 @@ I am a student of computer science at the Federal University of Campina Grande (
 
 
 
-- 🌱 I’m currently learning and working with Web Development
+- 🌱 I’m currently learning and working with API development
 
-- 👯 I’m looking to collaborate on Open Source about algorithms and Web Development
+- 👯 I’m looking to collaborate on Open Source about algorithms and IaaS
 
 
 - 📫 How to reach me: 
