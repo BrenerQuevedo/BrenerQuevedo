@@ -1,6 +1,6 @@
 ### Hi there  
 
-I am a student of computer science at the Federal University of Campina Grande (UFCG). I like to develop projects with ReactJS, Typescript and GraphQL, lately i've been working with web dev and always studying more about it.
+I am software engineer with a bachelor degree in Computer Science at the Federal University of Campina Grande (UFCG). I like to develop projects with ReactJS, Typescript and GraphQL, lately i've been working with web dev and always studying more about it.
 
 
 
